@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/lane-rpc-NIO/lane-rpc-nio.iml" filepath="$PROJECT_DIR$/lane-rpc-NIO/lane-rpc-nio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lane-rpc-socket/lane-rpc-socket.iml" filepath="$PROJECT_DIR$/lane-rpc-socket/lane-rpc-socket.iml" />
-    </modules>
-  </component>
-</project>
